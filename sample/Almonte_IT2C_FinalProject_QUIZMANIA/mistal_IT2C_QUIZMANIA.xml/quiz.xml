@@ -1,0 +1,106 @@
+<quiz>
+  <question>
+    <text>Question 1: What does XML stand for?</text>
+    <options>
+      <option>Extensible Markup Language</option>
+      <option>Extended Markup Language</option>
+      <option>Extra Markup Language</option>
+      <option>XML Markup Language</option>
+    </options>
+    <answer>Extensible Markup Language</answer>
+  </question>
+  <question>
+    <text>Question 2: What is the purpose of XML?</text>
+    <options>
+      <option>Storing and transporting data</option>
+      <option>Creating dynamic web pages</option>
+      <option>Processing mathematical calculations</option>
+      <option>Designing user interfaces</option>
+    </options>
+    <answer>Storing and transporting data</answer>
+  </question>
+  <question>
+    <text>Question 3: Which function is used to load an XML file in PHP?</text>
+    <options>
+      <option>parseXML()</option>
+      <option>readXML()</option>
+      <option>loadXML()</option>
+      <option>importXML()</option>
+    </options>
+    <answer>loadXML()</answer>
+  </question>
+  <question>
+    <text>Question 4: What is the correct syntax to create an XML element in PHP?</text>
+    <options>
+      <option>createElement('element_name')</option>
+      <option>createNode('element_name')</option>
+      <option>newElement('element_name')</option>
+      <option>makeElement('element_name')</option>
+    </options>
+    <answer>createElement('element_name')</answer>
+  </question>
+  <question>
+    <text>Question 5: How can you access the value of an XML element in PHP?</text>
+    <options>
+      <option>$element->text</option>
+      <option>$element->value</option>
+      <option>$element->nodeValue</option>
+      <option>$element->data</option>
+    </options>
+    <answer>$element->nodeValue</answer>
+  </question>
+  <question>
+    <text>Question 6: What is the purpose of CDATA in XML?</text>
+    <options>
+      <option>To escape special characters</option>
+      <option>To define attribute values</option>
+      <option>To specify namespaces</option>
+      <option>To indicate empty elements</option>
+    </options>
+    <answer>To escape special characters</answer>
+  </question>
+<question>
+  <text>Question 7: What is the purpose of an XML namespace?</text>
+  <options>
+    <option>To define a unique identifier for an XML document</option>
+    <option>To specify the character encoding used in an XML document</option>
+    <option>To organize elements and attributes into hierarchical structures</option>
+    <option>To avoid naming conflicts and enable element type differentiation</option>
+  </options>
+  <answer>To avoid naming conflicts and enable element type differentiation</answer>
+</question>
+
+  
+  <question>
+    <text>Question 8: What is the purpose of XSLT in XML?</text>
+    <options>
+      <option>To transform XML documents</option>
+      <option>To define document structure</option>
+      <option>To validate XML syntax</option>
+      <option>To query XML data</option>
+    </options>
+    <answer>To transform XML documents</answer>
+  </question>
+  
+  <question>
+    <text>Question 9: Which PHP function is used to parse XML data?</text>
+    <options>
+      <option>xml_parse()</option>
+      <option>xml_load_file()</option>
+      <option>xml_encode()</option>
+      <option>xml_parse_into_struct()</option>
+    </options>
+    <answer>xml_parse()</answer>
+  </question>
+  
+  <question>
+    <text>Question 10: What is the purpose of DTD in XML?</text>
+    <options>
+      <option>To define the structure and rules of an XML document</option>
+      <option>To style the XML document</option>
+      <option>To store and retrieve XML data</option>
+      <option>To encrypt the XML document</option>
+    </options>
+    <answer>To define the structure and rules of an XML document</answer>
+  </question>
+</quiz>

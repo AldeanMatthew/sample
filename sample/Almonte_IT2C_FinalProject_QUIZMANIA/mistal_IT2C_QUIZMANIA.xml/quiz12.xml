@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What is GitHub?</text>
+    <options>
+      <option>A version control system</option>
+      <option>A web-based platform for hosting and collaborating on Git repositories</option>
+      <option>An integrated development environment</option>
+      <option>A programming language</option>
+    </options>
+    <answer>A web-based platform for hosting and collaborating on Git repositories</answer>
+  </question>
+  <question>
+    <text>Question 2: What is the main purpose of GitHub?</text>
+    <options>
+      <option>To provide a centralized location for storing and managing Git repositories</option>
+      <option>To compile and execute code</option>
+      <option>To design user interfaces</option>
+      <option>To manage databases</option>
+    </options>
+    <answer>To provide a centralized location for storing and managing Git repositories</answer>
+  </question>
+  <question>
+    <text>Question 3: What is a repository in GitHub?</text>
+    <options>
+      <option>A storage location for GitHub configuration files</option>
+      <option>A remote server where GitHub projects are hosted</option>
+      <option>A directory that contains a Git project</option>
+      <option>A file that stores GitHub commit history</option>
+    </options>
+    <answer>A directory that contains a Git project</answer>
+  </question>
+  <question>
+    <text>Question 4: How do you create a new repository in GitHub?</text>
+    <options>
+      <option>By using the "git create" command</option>
+      <option>By clicking the "New" button on the GitHub website</option>
+      <option>By running the "git init" command on your local machine</option>
+      <option>By sending a request to GitHub support</option>
+    </options>
+    <answer>By clicking the "New" button on the GitHub website</answer>
+  </question>
+  <question>
+    <text>Question 5: What is a pull request in GitHub?</text>
+    <options>
+      <option>A request to merge changes from a branch to the main branch</option>
+      <option>A command to retrieve the latest changes from a remote repository</option>
+      <option>A command to revert changes in a GitHub repository</option>
+      <option>A feature to request code reviews from other developers</option>
+    </options>
+    <answer>A request to merge changes from a branch to the main branch</answer>
+  </question>
+  <question>
+    <text>Question 6: What is the purpose of forking a repository in GitHub?</text>
+    <options>
+      <option>To create a personal copy of a repository for making changes without affecting the original</option>
+      <option>To optimize code execution in GitHub projects</option>
+      <option>To generate code documentation from GitHub comments</option>
+      <option>To handle user authentication and authorization in GitHub projects</option>
+    </options>
+    <answer>To create a personal copy of a repository for making changes without affecting the original</answer>
+  </question>
+  <question>
+    <text>Question 7: What is an issue in GitHub?</text>
+    <options>
+      <option>A feature to track and discuss problems, enhancements, or questions related to a repository</option>
+      <option>A command to rename files in a GitHub repository</option>
+      <option>A file that contains GitHub configuration settings</option>
+      <option>A command to merge branches in GitHub</option>
+    </options>
+    <answer>A feature to track and discuss problems, enhancements, or questions related to a repository</answer>
+  </question>
+  <question>
+    <text>Question 8: How do you clone a repository in GitHub?</text>
+    <options>
+      <option>By using the "git clone" command</option>
+      <option>By downloading a ZIP file from the GitHub website</option>
+      <option>By running the "git init" command on your local machine</option>
+      <option>By sending a request to the repository owner</option>
+    </options>
+    <answer>By using the "git clone" command</answer>
+  </question>
+  <question>
+    <text>Question 9: What is the purpose of GitHub Actions?</text>
+    <options>
+      <option>To automate tasks and workflows in a GitHub repository</option>
+      <option>To optimize database performance in GitHub projects</option>
+      <option>To handle user authentication and authorization in GitHub projects</option>
+      <option>To enhance user interface design in GitHub repositories</option>
+    </options>
+    <answer>To automate tasks and workflows in a GitHub repository</answer>
+  </question>
+  <question>
+    <text>Question 10: What is the GitHub feature that allows you to track changes to a repository over time?</text>
+    <options>
+      <option>Git History</option>
+      <option>Git Timeline</option>
+      <option>Git Logs</option>
+      <option>Git Commits</option>
+    </options>
+    <answer>Git Commits</answer>
+  </question>
+</quiz>

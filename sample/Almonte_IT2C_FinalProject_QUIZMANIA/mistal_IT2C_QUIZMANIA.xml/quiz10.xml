@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What is the purpose of a DNS server?</text>
+    <options>
+      <option>Routing network traffic</option>
+      <option>Assigning IP addresses</option>
+      <option>Translating domain names to IP addresses</option>
+      <option>Securing network communications</option>
+    </options>
+    <answer>Translating domain names to IP addresses</answer>
+  </question>
+  <question>
+    <text>Question 2: Which protocol is commonly used for secure file transfer over a network?</text>
+    <options>
+      <option>FTP</option>
+      <option>SFTP</option>
+      <option>HTTP</option>
+      <option>SMTP</option>
+    </options>
+    <answer>SFTP</answer>
+  </question>
+  <question>
+    <text>Question 3: What does DHCP stand for in networking?</text>
+    <options>
+      <option>Domain Hosting Configuration Protocol</option>
+      <option>Dynamic Host Configuration Protocol</option>
+      <option>Digital Hosting Control Panel</option>
+      <option>Domain Hosting Control Panel</option>
+    </options>
+    <answer>Dynamic Host Configuration Protocol</answer>
+  </question>
+  <question>
+    <text>Question 4: What is the purpose of a firewall in server networking?</text>
+    <options>
+      <option>Accelerating network traffic</option>
+      <option>Filtering and blocking unauthorized network access</option>
+      <option>Managing network resources</option>
+      <option>Translating IP addresses</option>
+    </options>
+    <answer>Filtering and blocking unauthorized network access</answer>
+  </question>
+  <question>
+    <text>Question 5: Which protocol is commonly used for sending email messages over a network?</text>
+    <options>
+      <option>POP</option>
+      <option>IMAP</option>
+      <option>SMTP</option>
+      <option>HTTP</option>
+    </options>
+    <answer>SMTP</answer>
+  </question>
+  <question>
+    <text>Question 6: What is the purpose of a proxy server in server networking?</text>
+    <options>
+      <option>Managing network traffic</option>
+      <option>Securing network communications</option>
+      <option>Translating IP addresses</option>
+      <option>Acting as an intermediary between clients and servers</option>
+    </options>
+    <answer>Acting as an intermediary between clients and servers</answer>
+  </question>
+  <question>
+    <text>Question 7: Which protocol is commonly used for remote server administration?</text>
+    <options>
+      <option>SSH</option>
+      <option>HTTP</option>
+      <option>FTP</option>
+      <option>SMTP</option>
+    </options>
+    <answer>SSH</answer>
+  </question>
+  <question>
+    <text>Question 8: What is the purpose of a load balancer in server networking?</text>
+    <options>
+      <option>Encrypting network communications</option>
+      <option>Translating domain names to IP addresses</option>
+      <option>Managing network resources</option>
+      <option>Distributing network traffic across multiple servers</option>
+    </options>
+    <answer>Distributing network traffic across multiple servers</answer>
+  </question>
+  <question>
+    <text>Question 9: What is the purpose of an SSL certificate in server networking?</text>
+    <options>
+      <option>Managing network traffic</option>
+      <option>Encrypting network communications</option>
+      <option>Filtering and blocking network access</option>
+      <option>Translating IP addresses</option>
+    </options>
+    <answer>Encrypting network communications</answer>
+  </question>
+  <question>
+    <text>Question 10: Which protocol is commonly used for secure web browsing?</text>
+    <options>
+      <option>HTTP</option>
+      <option>FTP</option>
+      <option>SMTP</option>
+      <option>HTTPS</option>
+    </options>
+    <answer>HTTPS</answer>
+  </question>
+</quiz>

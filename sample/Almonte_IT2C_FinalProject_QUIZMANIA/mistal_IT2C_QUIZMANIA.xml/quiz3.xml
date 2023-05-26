@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What does TCP/IP stand for?</text>
+    <options>
+      <option>Transmission Control Protocol/Internet Protocol</option>
+      <option>Technical Control Protocol/Internet Protocol</option>
+      <option>Transport Control Protocol/Internet Protocol</option>
+      <option>Telecom Control Protocol/Internet Protocol</option>
+    </options>
+    <answer>Transmission Control Protocol/Internet Protocol</answer>
+  </question>
+  <question>
+    <text>Question 2: What is the purpose of DNS?</text>
+    <options>
+      <option>To translate domain names to IP addresses</option>
+      <option>To secure network connections</option>
+      <option>To manage network traffic</option>
+      <option>To create network protocols</option>
+    </options>
+    <answer>To translate domain names to IP addresses</answer>
+  </question>
+  <question>
+    <text>Question 3: Which device connects multiple network segments together?</text>
+    <options>
+      <option>Router</option>
+      <option>Switch</option>
+      <option>Firewall</option>
+      <option>Modem</option>
+    </options>
+    <answer>Switch</answer>
+  </question>
+  <question>
+    <text>Question 4: What is the subnet mask used for?</text>
+    <options>
+      <option>To determine the network and host portions of an IP address</option>
+      <option>To encrypt network traffic</option>
+      <option>To assign IP addresses to devices</option>
+      <option>To block unauthorized network access</option>
+    </options>
+    <answer>To determine the network and host portions of an IP address</answer>
+  </question>
+  <question>
+    <text>Question 5: What is the purpose of a firewall?</text>
+    <options>
+      <option>To protect a network from unauthorized access</option>
+      <option>To increase network speed</option>
+      <option>To connect multiple networks together</option>
+      <option>To manage network traffic</option>
+    </options>
+    <answer>To protect a network from unauthorized access</answer>
+  </question>
+  <question>
+    <text>Question 6: What is the maximum transmission speed of Cat 6 Ethernet cable?</text>
+    <options>
+      <option>10 Mbps</option>
+      <option>100 Mbps</option>
+      <option>1 Gbps</option>
+      <option>10 Gbps</option>
+    </options>
+    <answer>10 Gbps</answer>
+  </question>
+  <question>
+    <text>Question 7: What is the purpose of NAT (Network Address Translation)?</text>
+    <options>
+      <option>To allow multiple devices to share a single public IP address</option>
+      <option>To secure network connections</option>
+      <option>To manage network traffic</option>
+      <option>To create network protocols</option>
+    </options>
+    <answer>To allow multiple devices to share a single public IP address</answer>
+  </question>
+  <question>
+    <text>Question 8: Which protocol is used for secure web communication?</text>
+    <options>
+      <option>HTTPS</option>
+      <option>HTTP</option>
+      <option>FTP</option>
+      <option>SMTP</option>
+    </options>
+    <answer>HTTPS</answer>
+  </question>
+  <question>
+    <text>Question 9: What is the purpose of VLAN (Virtual Local Area Network)?</text>
+    <options>
+      <option>To logically segment a network into multiple broadcast domains</option>
+      <option>To connect multiple networks together</option>
+      <option>To assign IP addresses to devices</option>
+      <option>To block unauthorized network access</option>
+    </options>
+    <answer>To logically segment a network into multiple broadcast domains</answer>
+  </question>
+  <question>
+    <text>Question 10: What is the purpose of a default gateway?</text>
+    <options>
+      <option>To provide a path for network traffic to exit a local network</option>
+      <option>To translate domain names to IP addresses</option>
+      <option>To manage network traffic</option>
+      <option>To secure network connections</option>
+    </options>
+    <answer>To provide a path for network traffic to exit a local network</answer>
+  </question>
+</quiz>

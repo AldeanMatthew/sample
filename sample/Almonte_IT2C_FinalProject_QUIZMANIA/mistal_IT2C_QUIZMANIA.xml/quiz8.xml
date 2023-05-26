@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: Which of the following is a scripting language?</text>
+    <options>
+      <option>Java</option>
+      <option>Python</option>
+      <option>C++</option>
+      <option>Swift</option>
+    </options>
+    <answer>Python</answer>
+  </question>
+  <question>
+    <text>Question 2: What is the primary purpose of a scripting language?</text>
+    <options>
+      <option>Creating standalone applications</option>
+      <option>Building complex data structures</option>
+      <option>Executing automated tasks and scripts</option>
+      <option>Developing high-performance software</option>
+    </options>
+    <answer>Executing automated tasks and scripts</answer>
+  </question>
+  <question>
+    <text>Question 3: Which scripting language is widely used for web development?</text>
+    <options>
+      <option>JavaScript</option>
+      <option>Ruby</option>
+      <option>PHP</option>
+      <option>Go</option>
+    </options>
+    <answer>JavaScript</answer>
+  </question>
+  <question>
+    <text>Question 4: Which of the following is an application language?</text>
+    <options>
+      <option>C#</option>
+      <option>Bash</option>
+      <option>Perl</option>
+      <option>Lua</option>
+    </options>
+    <answer>C#</answer>
+  </question>
+  <question>
+    <text>Question 5: What is the primary purpose of an application language?</text>
+    <options>
+      <option>Executing automated tasks and scripts</option>
+      <option>Building web applications</option>
+      <option>Creating system utilities</option>
+      <option>Developing mobile apps</option>
+    </options>
+    <answer>Building web applications</answer>
+  </question>
+  <question>
+    <text>Question 6: Which application language is commonly used for Android app development?</text>
+    <options>
+      <option>Java</option>
+      <option>C++</option>
+      <option>Python</option>
+      <option>Swift</option>
+    </options>
+    <answer>Java</answer>
+  </question>
+  <question>
+    <text>Question 7: Which of the following is a dynamically typed scripting language?</text>
+    <options>
+      <option>Java</option>
+      <option>Python</option>
+      <option>C</option>
+      <option>Swift</option>
+    </options>
+    <answer>Python</answer>
+  </question>
+  <question>
+    <text>Question 8: Which scripting language is commonly used for data analysis and machine learning?</text>
+    <options>
+      <option>Python</option>
+      <option>Ruby</option>
+      <option>Perl</option>
+      <option>Go</option>
+    </options>
+    <answer>Python</answer>
+  </question>
+  <question>
+    <text>Question 9: Which application language is commonly used for desktop software development?</text>
+    <options>
+      <option>C++</option>
+      <option>JavaScript</option>
+      <option>Ruby</option>
+      <option>Go</option>
+    </options>
+    <answer>C++</answer>
+  </question>
+  <question>
+    <text>Question 10: Which of the following is a statically typed application language?</text>
+    <options>
+      <option>Python</option>
+      <option>JavaScript</option>
+      <option>Go</option>
+      <option>Perl</option>
+    </options>
+    <answer>Go</answer>
+  </question>
+</quiz>

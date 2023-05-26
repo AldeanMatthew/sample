@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What does HTML stand for?</text>
+    <options>
+      <option>Hypertext Markup Language</option>
+      <option>Hyperlink Markup Language</option>
+      <option>Home Tool Markup Language</option>
+      <option>High-level Markup Language</option>
+    </options>
+    <answer>Hypertext Markup Language</answer>
+  </question>
+  <question>
+    <text>Question 2: Why is HTML important for web development?</text>
+    <options>
+      <option>It defines the structure of web pages</option>
+      <option>It allows for interactive user interfaces</option>
+      <option>It enables the display of multimedia content</option>
+      <option>It facilitates communication between web servers and browsers</option>
+    </options>
+    <answer>It defines the structure of web pages</answer>
+  </question>
+  <question>
+    <text>Question 3: What is the role of HTML in search engine optimization (SEO)?</text>
+    <options>
+      <option>HTML provides the necessary metadata for search engines</option>
+      <option>HTML improves website loading speed</option>
+      <option>HTML enhances the visual design of web pages</option>
+      <option>HTML enables social media integration</option>
+    </options>
+    <answer>HTML provides the necessary metadata for search engines</answer>
+  </question>
+  <question>
+    <text>Question 4: How does HTML contribute to accessibility on the web?</text>
+    <options>
+      <option>HTML ensures compatibility across different devices and browsers</option>
+      <option>HTML enables the creation of responsive web designs</option>
+      <option>HTML provides semantic elements for screen readers and assistive technologies</option>
+      <option>HTML allows for the integration of multimedia elements</option>
+    </options>
+    <answer>HTML provides semantic elements for screen readers and assistive technologies</answer>
+  </question>
+  <question>
+    <text>Question 5: What is the purpose of HTML validation?</text>
+    <options>
+      <option>HTML validation checks for errors and ensures code quality</option>
+      <option>HTML validation improves website security</option>
+      <option>HTML validation speeds up website performance</option>
+      <option>HTML validation enables dynamic web functionality</option>
+    </options>
+    <answer>HTML validation checks for errors and ensures code quality</answer>
+  </question>
+  <question>
+    <text>Question 6: Why is it important to follow HTML coding best practices?</text>
+    <options>
+      <option>It ensures cross-browser compatibility</option>
+      <option>It improves website loading speed</option>
+      <option>It enhances website usability and user experience</option>
+      <option>It allows for advanced interactivity and animations</option>
+    </options>
+    <answer>It ensures cross-browser compatibility</answer>
+  </question>
+  <question>
+    <text>Question 7: How does HTML contribute to the separation of content and presentation?</text>
+    <options>
+      <option>HTML defines the structure and content of web pages, while CSS handles the visual presentation</option>
+      <option>HTML enables the inclusion of multimedia elements</option>
+      <option>HTML provides interactivity through JavaScript</option>
+      <option>HTML allows for server-side processing and database integration</option>
+    </options>
+    <answer>HTML defines the structure and content of web pages, while CSS handles the visual presentation</answer>
+  </question>
+  <question>
+    <text>Question 8: What is the significance of semantic HTML elements?</text>
+    <options>
+      <option>Semantic HTML elements provide meaning and context to the content</option>
+      <option>Semantic HTML elements enhance website performance</option>
+      <option>Semantic HTML elements enable server-side scripting</option>
+      <option>Semantic HTML elements improve website security</option>
+    </options>
+    <answer>Semantic HTML elements provide meaning and context to the content</answer>
+  </question>
+  <question>
+    <text>Question 9: How does HTML contribute to the responsive design of websites?</text>
+    <options>
+      <option>HTML allows for media queries and flexible layouts</option>
+      <option>HTML enables advanced animations and transitions</option>
+      <option>HTML provides server-side scripting capabilities</option>
+      <option>HTML enhances website accessibility</option>
+    </options>
+    <answer>HTML allows for media queries and flexible layouts</answer>
+  </question>
+  <question>
+    <text>Question 10: What is the future of HTML in web development?</text>
+    <options>
+      <option>HTML will continue to evolve with new features and capabilities</option>
+      <option>HTML will be replaced by other programming languages</option>
+      <option>HTML will no longer be necessary for website development</option>
+      <option>HTML will shift its focus to server-side processing</option>
+    </options>
+    <answer>HTML will continue to evolve with new features and capabilities</answer>
+  </question>
+</quiz>

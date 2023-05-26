@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What is the first phase of the software development life cycle (SDLC)?</text>
+    <options>
+      <option>Planning</option>
+      <option>Design</option>
+      <option>Implementation</option>
+      <option>Testing</option>
+    </options>
+    <answer>Planning</answer>
+  </question>
+  <question>
+    <text>Question 2: Which software development methodology emphasizes iterative and incremental development?</text>
+    <options>
+      <option>Waterfall</option>
+      <option>Agile</option>
+      <option>Spiral</option>
+      <option>Lean</option>
+    </options>
+    <answer>Agile</answer>
+  </question>
+  <question>
+    <text>Question 3: What is the purpose of version control systems in software development?</text>
+    <options>
+      <option>Manage project timelines</option>
+      <option>Track software defects</option>
+      <option>Collaborate on code changes</option>
+      <option>Perform automated testing</option>
+    </options>
+    <answer>Collaborate on code changes</answer>
+  </question>
+  <question>
+    <text>Question 4: What does the term "refactoring" refer to in software development?</text>
+    <options>
+      <option>Testing software for bugs</option>
+      <option>Creating new features</option>
+      <option>Optimizing existing code</option>
+      <option>Deploying software to production</option>
+    </options>
+    <answer>Optimizing existing code</answer>
+  </question>
+  <question>
+    <text>Question 5: Which software development practice involves continuously integrating code changes into a shared repository?</text>
+    <options>
+      <option>Continuous integration</option>
+      <option>Continuous delivery</option>
+      <option>Continuous deployment</option>
+      <option>Continuous testing</option>
+    </options>
+    <answer>Continuous integration</answer>
+  </question>
+  <question>
+    <text>Question 6: What is the purpose of unit testing in software development?</text>
+    <options>
+      <option>Verify the overall system functionality</option>
+      <option>Ensure compatibility with different platforms</option>
+      <option>Test the integration between multiple components</option>
+      <option>Check the correctness of individual code units</option>
+    </options>
+    <answer>Check the correctness of individual code units</answer>
+  </question>
+  <question>
+    <text>Question 7: What is the term for a programming error that causes a software malfunction?</text>
+    <options>
+      <option>Defect</option>
+      <option>Issue</option>
+      <option>Bug</option>
+      <option>Error</option>
+    </options>
+    <answer>Bug</answer>
+  </question>
+  <question>
+    <text>Question 8: Which software development activity involves creating a detailed representation of the system's architecture and components?</text>
+    <options>
+      <option>Testing</option>
+      <option>Deployment</option>
+      <option>Design</option>
+      <option>Analysis</option>
+    </options>
+    <answer>Design</answer>
+  </question>
+  <question>
+    <text>Question 9: What is the term for a set of rules and guidelines that govern the writing of source code?</text>
+    <options>
+      <option>Code standard</option>
+      <option>Code convention</option>
+      <option>Coding style</option>
+      <option>Programming paradigm</option>
+    </options>
+    <answer>Coding style</answer>
+  </question>
+  <question>
+    <text>Question 10: Which software development practice involves identifying and fixing software defects after deployment?</text>
+    <options>
+      <option>Debugging</option>
+      <option>Maintenance</option>
+      <option>Reengineering</option>
+      <option>Optimization</option>
+    </options>
+    <answer>Maintenance</answer>
+  </question>
+</quiz>

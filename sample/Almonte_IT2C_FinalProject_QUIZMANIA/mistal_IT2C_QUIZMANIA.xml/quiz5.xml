@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What is the CPU (Central Processing Unit) responsible for?</text>
+    <options>
+      <option>Performing calculations and executing instructions</option>
+      <option>Storing data for long-term use</option>
+      <option>Managing network connections</option>
+      <option>Rendering graphics for display</option>
+    </options>
+    <answer>Performing calculations and executing instructions</answer>
+  </question>
+  <question>
+    <text>Question 2: What is the purpose of RAM (Random Access Memory)?</text>
+    <options>
+      <option>To temporarily store data and instructions for the CPU</option>
+      <option>To store the operating system and software programs</option>
+      <option>To provide long-term storage for files and documents</option>
+      <option>To control input and output devices</option>
+    </options>
+    <answer>To temporarily store data and instructions for the CPU</answer>
+  </question>
+  <question>
+    <text>Question 3: What is the primary function of a motherboard?</text>
+    <options>
+      <option>To connect and communicate between different hardware components</option>
+      <option>To store data and programs</option>
+      <option>To display graphics on the screen</option>
+      <option>To provide power to the computer system</option>
+    </options>
+    <answer>To connect and communicate between different hardware components</answer>
+  </question>
+  <question>
+    <text>Question 4: What is the purpose of a GPU (Graphics Processing Unit)?</text>
+    <options>
+      <option>To render and display graphics on the screen</option>
+      <option>To perform calculations and execute instructions</option>
+      <option>To store data for long-term use</option>
+      <option>To manage network connections</option>
+    </options>
+    <answer>To render and display graphics on the screen</answer>
+  </question>
+  <question>
+    <text>Question 5: What is the role of a hard drive in a computer?</text>
+    <options>
+      <option>To provide long-term storage for files and programs</option>
+      <option>To perform calculations and execute instructions</option>
+      <option>To control input and output devices</option>
+      <option>To render and display graphics on the screen</option>
+    </options>
+    <answer>To provide long-term storage for files and programs</answer>
+  </question>
+  <question>
+    <text>Question 6: What is the purpose of a power supply unit (PSU) in a computer?</text>
+    <options>
+      <option>To convert AC power from the wall outlet to DC power for the computer</option>
+      <option>To provide cooling for the CPU and other components</option>
+      <option>To control input and output devices</option>
+      <option>To store data and programs</option>
+    </options>
+    <answer>To convert AC power from the wall outlet to DC power for the computer</answer>
+  </question>
+  <question>
+    <text>Question 7: What is the function of an optical drive in a computer?</text>
+    <options>
+      <option>To read and write data from optical discs such as CDs and DVDs</option>
+      <option>To store data for long-term use</option>
+      <option>To display graphics on the screen</option>
+      <option>To perform calculations and execute instructions</option>
+    </options>
+    <answer>To read and write data from optical discs such as CDs and DVDs</answer>
+  </question>
+  <question>
+    <text>Question 8: What is the purpose of a sound card in a computer?</text>
+    <options>
+      <option>To provide audio input and output capabilities</option>
+      <option>To control input and output devices</option>
+      <option>To store data and programs</option>
+      <option>To perform calculations and execute instructions</option>
+    </options>
+    <answer>To provide audio input and output capabilities</answer>
+  </question>
+  <question>
+    <text>Question 9: What is the role of a network interface card (NIC) in a computer?</text>
+    <options>
+      <option>To connect the computer to a network</option>
+      <option>To provide cooling for the CPU and other components</option>
+      <option>To store data for long-term use</option>
+      <option>To control input and output devices</option>
+    </options>
+    <answer>To connect the computer to a network</answer>
+  </question>
+  <question>
+    <text>Question 10: What is the purpose of a cooling system (e.g., fans or liquid cooling) in a computer?</text>
+    <options>
+      <option>To prevent overheating and maintain optimal operating temperatures</option>
+      <option>To perform calculations and execute instructions</option>
+      <option>To store data and programs</option>
+      <option>To render and display graphics on the screen</option>
+    </options>
+    <answer>To prevent overheating and maintain optimal operating temperatures</answer>
+  </question>
+</quiz>

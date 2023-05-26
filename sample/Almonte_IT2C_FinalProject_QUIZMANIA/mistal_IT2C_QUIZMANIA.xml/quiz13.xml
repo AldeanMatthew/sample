@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What is Git?</text>
+    <options>
+      <option>A version control system</option>
+      <option>A programming language</option>
+      <option>An integrated development environment</option>
+      <option>A web-based platform for hosting Git repositories</option>
+    </options>
+    <answer>A version control system</answer>
+  </question>
+  <question>
+    <text>Question 2: What is the main purpose of version control?</text>
+    <options>
+      <option>To track and manage changes to files and projects</option>
+      <option>To compile and execute code</option>
+      <option>To design user interfaces</option>
+      <option>To manage databases</option>
+    </options>
+    <answer>To track and manage changes to files and projects</answer>
+  </question>
+  <question>
+    <text>Question 3: What are the benefits of using Git for version control?</text>
+    <options>
+      <option>Ability to collaborate with others</option>
+      <option>Ability to track changes over time</option>
+      <option>Ability to revert to previous versions</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <text>Question 4: What is the purpose of a Git repository?</text>
+    <options>
+      <option>To store and organize project files and their history</option>
+      <option>To compile and execute code</option>
+      <option>To design user interfaces</option>
+      <option>To manage databases</option>
+    </options>
+    <answer>To store and organize project files and their history</answer>
+  </question>
+  <question>
+    <text>Question 5: What is GitHub?</text>
+    <options>
+      <option>A web-based platform for hosting and collaborating on Git repositories</option>
+      <option>A programming language</option>
+      <option>An integrated development environment</option>
+      <option>A version control system</option>
+    </options>
+    <answer>A web-based platform for hosting and collaborating on Git repositories</answer>
+  </question>
+  <question>
+    <text>Question 6: How does GitHub facilitate collaboration?</text>
+    <options>
+      <option>Multiple developers can work on the same project and merge their changes</option>
+      <option>GitHub provides tools for code reviews and issue tracking</option>
+      <option>Developers can fork repositories and make their own changes</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <text>Question 7: What is the benefit of using GitHub for open-source projects?</text>
+    <options>
+      <option>It allows for easy contributions from the community</option>
+      <option>It provides a centralized location for project documentation</option>
+      <option>It ensures high availability and fault tolerance</option>
+      <option>It optimizes code execution speed</option>
+    </options>
+    <answer>It allows for easy contributions from the community</answer>
+  </question>
+  <question>
+    <text>Question 8: What is a pull request in GitHub?</text>
+    <options>
+      <option>A request to merge changes from a branch to the main branch</option>
+      <option>A command to retrieve the latest changes from a remote repository</option>
+      <option>A command to revert changes to a previous commit</option>
+      <option>A request to delete a repository</option>
+    </options>
+    <answer>A request to merge changes from a branch to the main branch</answer>
+  </question>
+  <question>
+    <text>Question 9: What is the advantage of using Git and GitHub for personal projects?</text>
+    <options>
+      <option>Ability to track and manage changes over time</option>
+      <option>Ability to work on projects from multiple devices</option>
+      <option>Ability to easily revert to previous versions</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <text>Question 10: Why is it important for software developers to learn Git and GitHub?</text>
+    <options>
+      <option>It is widely used in industry for version control and collaboration</option>
+      <option>It improves productivity and project management</option>
+      <option>It enhances job opportunities and career prospects</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+</quiz>

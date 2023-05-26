@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What is Git?</text>
+    <options>
+      <option>A version control system</option>
+      <option>An integrated development environment</option>
+      <option>A programming language</option>
+      <option>A web development framework</option>
+    </options>
+    <answer>A version control system</answer>
+  </question>
+  <question>
+    <text>Question 2: What is the purpose of Git?</text>
+    <options>
+      <option>To track changes in files and collaborate with others</option>
+      <option>To compile and execute code</option>
+      <option>To design user interfaces</option>
+      <option>To manage databases</option>
+    </options>
+    <answer>To track changes in files and collaborate with others</answer>
+  </question>
+  <question>
+    <text>Question 3: What is a repository in Git?</text>
+    <options>
+      <option>A storage location for Git configuration files</option>
+      <option>A remote server where Git projects are hosted</option>
+      <option>A directory that contains a Git project</option>
+      <option>A file that stores Git commit history</option>
+    </options>
+    <answer>A directory that contains a Git project</answer>
+  </question>
+  <question>
+    <text>Question 4: What is the command used to create a new Git repository?</text>
+    <options>
+      <option>git create</option>
+      <option>git init</option>
+      <option>git new</option>
+      <option>git start</option>
+    </options>
+    <answer>git init</answer>
+  </question>
+  <question>
+    <text>Question 5: What is a commit in Git?</text>
+    <options>
+      <option>A saved snapshot of changes in a Git repository</option>
+      <option>A branch in a Git repository</option>
+      <option>A file that contains Git configuration settings</option>
+      <option>A command to merge branches in Git</option>
+    </options>
+    <answer>A saved snapshot of changes in a Git repository</answer>
+  </question>
+  <question>
+    <text>Question 6: What is the purpose of branching in Git?</text>
+    <options>
+      <option>To work on new features or experiment without affecting the main codebase</option>
+      <option>To optimize code execution in Git projects</option>
+      <option>To generate code documentation from Git comments</option>
+      <option>To handle user authentication and authorization in Git projects</option>
+    </options>
+    <answer>To work on new features or experiment without affecting the main codebase</answer>
+  </question>
+  <question>
+    <text>Question 7: What is a remote in Git?</text>
+    <options>
+      <option>A Git command for renaming files</option>
+      <option>A version of a Git repository hosted on a different server</option>
+      <option>A file that stores Git commit history</option>
+      <option>A command to revert changes in a Git repository</option>
+    </options>
+    <answer>A version of a Git repository hosted on a different server</answer>
+  </question>
+  <question>
+    <text>Question 8: What is the command used to clone an existing Git repository?</text>
+    <options>
+      <option>git clone</option>
+      <option>git copy</option>
+      <option>git pull</option>
+      <option>git fetch</option>
+    </options>
+    <answer>git clone</answer>
+  </question>
+  <question>
+    <text>Question 9: What is the purpose of a merge in Git?</text>
+    <options>
+      <option>To combine changes from different branches into one</option>
+      <option>To compress Git commit history for better performance</option>
+      <option>To validate Git commit messages</option>
+      <option>To handle user authentication and authorization in Git projects</option>
+    </options>
+    <answer>To combine changes from different branches into one</answer>
+  </question>
+  <question>
+    <text>Question 10: What is the command used to push local changes to a remote Git repository?</text>
+    <options>
+      <option>git commit</option>
+      <option>git add</option>
+      <option>git push</option>
+      <option>git merge</option>
+    </options>
+    <answer>git push</answer>
+  </question>
+</quiz>

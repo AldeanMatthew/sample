@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What is an integration model?</text>
+    <options>
+      <option>A framework for integrating software components</option>
+      <option>A programming language for data integration</option>
+      <option>A design pattern for user interface integration</option>
+      <option>A protocol for network integration</option>
+    </options>
+    <answer>A framework for integrating software components</answer>
+  </question>
+  <question>
+    <text>Question 2: What is meant by point-to-point integration model?</text>
+    <options>
+      <option>An integration model where each system is directly connected to every other system</option>
+      <option>An integration model where systems communicate through a central hub</option>
+      <option>An integration model where data is transferred using a specific data format</option>
+      <option>An integration model where systems exchange data in real-time</option>
+    </options>
+    <answer>An integration model where each system is directly connected to every other system</answer>
+  </question>
+  <question>
+    <text>Question 3: What is meant by hub-and-spoke integration model?</text>
+    <options>
+      <option>An integration model where each system is directly connected to every other system</option>
+      <option>An integration model where systems communicate through a central hub</option>
+      <option>An integration model where data is transferred using a specific data format</option>
+      <option>An integration model where systems exchange data in real-time</option>
+    </options>
+    <answer>An integration model where systems communicate through a central hub</answer>
+  </question>
+  <question>
+    <text>Question 4: What is meant by data-centric integration model?</text>
+    <options>
+      <option>An integration model where each system is directly connected to every other system</option>
+      <option>An integration model where systems communicate through a central hub</option>
+      <option>An integration model where data is transferred using a specific data format</option>
+      <option>An integration model where systems exchange data in real-time</option>
+    </options>
+    <answer>An integration model where data is transferred using a specific data format</answer>
+  </question>
+  <question>
+    <text>Question 5: What is meant by message-oriented integration model?</text>
+    <options>
+      <option>An integration model where each system is directly connected to every other system</option>
+      <option>An integration model where systems communicate through a central hub</option>
+      <option>An integration model where data is transferred using a specific data format</option>
+      <option>An integration model where systems exchange data through messages</option>
+    </options>
+    <answer>An integration model where systems exchange data through messages</answer>
+  </question>
+  <question>
+    <text>Question 6: What is meant by service-oriented integration model?</text>
+    <options>
+      <option>An integration model where each system is directly connected to every other system</option>
+      <option>An integration model where systems communicate through a central hub</option>
+      <option>An integration model where data is transferred using a specific data format</option>
+      <option>An integration model where systems provide and consume services</option>
+    </options>
+    <answer>An integration model where systems provide and consume services</answer>
+  </question>
+  <question>
+    <text>Question 7: What is meant by event-driven integration model?</text>
+    <options>
+      <option>An integration model where each system is directly connected to every other system</option>
+      <option>An integration model where systems communicate through a central hub</option>
+      <option>An integration model where data is transferred using a specific data format</option>
+      <option>An integration model where systems communicate based on triggered events or signals</option>
+    </options>
+    <answer>An integration model where systems communicate based on triggered events or signals</answer>
+  </question>
+  <question>
+    <text>Question 8: What is meant by process-centric integration model?</text>
+    <options>
+      <option>An integration model where each system is directly connected to every other system</option>
+      <option>An integration model where systems communicate through a central hub</option>
+      <option>An integration model where data is transferred using a specific data format</option>
+      <option>An integration model where systems collaborate to execute a business process</option>
+    </options>
+    <answer>An integration model where systems collaborate to execute a business process</answer>
+  </question>
+  <question>
+    <text>Question 9: What is meant by file-based integration model?</text>
+    <options>
+      <option>An integration model where each system is directly connected to every other system</option>
+      <option>An integration model where systems communicate through a central hub</option>
+      <option>An integration model where data is transferred using files</option>
+      <option>An integration model where systems exchange data through messages</option>
+    </options>
+    <answer>An integration model where data is transferred using files</answer>
+  </question>
+  <question>
+    <text>Question 10: What is meant by cloud-based integration model?</text>
+    <options>
+      <option>An integration model where each system is directly connected to every other system</option>
+      <option>An integration model where systems communicate through a central hub</option>
+      <option>An integration model where data is transferred using a specific data format</option>
+      <option>An integration model where systems are connected through cloud services</option>
+    </options>
+    <answer>An integration model where systems are connected through cloud services</answer>
+  </question>
+</quiz>

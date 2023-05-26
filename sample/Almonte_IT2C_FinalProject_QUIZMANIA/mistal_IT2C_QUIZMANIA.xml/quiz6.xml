@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What is integrative programming?</text>
+    <options>
+      <option>A programming paradigm that combines multiple programming languages</option>
+      <option>A programming technique to integrate different software components</option>
+      <option>A programming approach to optimize code execution speed</option>
+      <option>A programming methodology to enhance user interface design</option>
+    </options>
+    <answer>A programming technique to integrate different software components</answer>
+  </question>
+  <question>
+    <text>Question 2: Which of the following is not an example of an integration protocol?</text>
+    <options>
+      <option>REST</option>
+      <option>SOAP</option>
+      <option>GraphQL</option>
+      <option>HTML</option>
+    </options>
+    <answer>HTML</answer>
+  </question>
+  <question>
+    <text>Question 3: What is an API?</text>
+    <options>
+      <option>Application Programming Interface</option>
+      <option>Algorithmic Programming Interface</option>
+      <option>Application Protocol Interface</option>
+      <option>Algorithmic Protocol Interface</option>
+    </options>
+    <answer>Application Programming Interface</answer>
+  </question>
+  <question>
+    <text>Question 4: What is the purpose of ESB in integrative programming?</text>
+    <options>
+      <option>To provide a messaging backbone for integrating systems</option>
+      <option>To optimize database performance in integrated systems</option>
+      <option>To automate software testing in integration projects</option>
+      <option>To handle user authentication and authorization in integrated systems</option>
+    </options>
+    <answer>To provide a messaging backbone for integrating systems</answer>
+  </question>
+  <question>
+    <text>Question 5: What is a common data format used for data integration?</text>
+    <options>
+      <option>XML</option>
+      <option>CSV</option>
+      <option>JSON</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <text>Question 6: What is the role of middleware in integrative programming?</text>
+    <options>
+      <option>To facilitate communication and data exchange between different applications</option>
+      <option>To optimize code execution in integrated systems</option>
+      <option>To enhance user experience in integrated applications</option>
+      <option>To secure network communication in integration projects</option>
+    </options>
+    <answer>To facilitate communication and data exchange between different applications</answer>
+  </question>
+  <question>
+    <text>Question 7: What is an example of a message-oriented integration pattern?</text>
+    <options>
+      <option>Publish/Subscribe</option>
+      <option>Request/Response</option>
+      <option>Batch Processing</option>
+      <option>Remote Procedure Call</option>
+    </options>
+    <answer>Publish/Subscribe</answer>
+  </question>
+  <question>
+    <text>Question 8: What is the purpose of data transformation in integrative programming?</text>
+    <options>
+      <option>To convert data from one format to another</option>
+      <option>To optimize code execution in integrated systems</option>
+      <option>To secure network communication in integration projects</option>
+      <option>To handle user authentication and authorization in integrated systems</option>
+    </options>
+    <answer>To convert data from one format to another</answer>
+  </question>
+  <question>
+    <text>Question 9: What is the role of a service bus in integrative programming?</text>
+    <options>
+      <option>To enable communication between distributed components</option>
+      <option>To handle database operations in integration projects</option>
+      <option>To automate software testing in integration projects</option>
+      <option>To optimize code execution in integrated systems</option>
+    </options>
+    <answer>To enable communication between distributed components</answer>
+  </question>
+  <question>
+    <text>Question 10: What is the significance of event-driven architecture in integrative programming?</text>
+    <options>
+      <option>It enables loosely coupled systems and asynchronous communication</option>
+      <option>It enhances user interface design in integrated applications</option>
+      <option>It optimizes code execution speed in integration projects</option>
+      <option>It ensures high availability and fault tolerance in integrated systems</option>
+    </options>
+    <answer>It enables loosely coupled systems and asynchronous communication</answer>
+  </question>
+</quiz>

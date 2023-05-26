@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What is meant by inter-systems communication?</text>
+    <options>
+      <option>Communication between different programming languages</option>
+      <option>Communication between different computer systems</option>
+      <option>Communication between different network protocols</option>
+      <option>Communication between different operating systems</option>
+    </options>
+    <answer>Communication between different computer systems</answer>
+  </question>
+  <question>
+    <text>Question 2: What is the purpose of inter-systems communication?</text>
+    <options>
+      <option>To enable data exchange and coordination between systems</option>
+      <option>To enhance user interfaces in integrated applications</option>
+      <option>To optimize code execution in integrated systems</option>
+      <option>To secure network communication in integration projects</option>
+    </options>
+    <answer>To enable data exchange and coordination between systems</answer>
+  </question>
+  <question>
+    <text>Question 3: What is meant by synchronous communication?</text>
+    <options>
+      <option>Communication where both sender and receiver are online at the same time</option>
+      <option>Communication where data is transmitted in real-time</option>
+      <option>Communication where data is transmitted in a continuous stream</option>
+      <option>Communication where sender and receiver are geographically close</option>
+    </options>
+    <answer>Communication where both sender and receiver are online at the same time</answer>
+  </question>
+  <question>
+    <text>Question 4: What is meant by asynchronous communication?</text>
+    <options>
+      <option>Communication where data is transmitted in real-time</option>
+      <option>Communication where data is transmitted in a continuous stream</option>
+      <option>Communication where both sender and receiver are online at the same time</option>
+      <option>Communication where sender and receiver are geographically close</option>
+    </options>
+    <answer>Communication where data is transmitted in a continuous stream</answer>
+  </question>
+  <question>
+    <text>Question 5: What is meant by request/response communication?</text>
+    <options>
+      <option>Communication where one system requests data from another system and receives a response</option>
+      <option>Communication where data is continuously transmitted between systems</option>
+      <option>Communication where systems exchange data simultaneously</option>
+      <option>Communication where systems send and receive data in real-time</option>
+    </options>
+    <answer>Communication where one system requests data from another system and receives a response</answer>
+  </question>
+  <question>
+    <text>Question 6: What is meant by publish/subscribe communication?</text>
+    <options>
+      <option>Communication where systems exchange data simultaneously</option>
+      <option>Communication where one system publishes messages and other systems subscribe to receive them</option>
+      <option>Communication where one system continuously transmits data to another system</option>
+      <option>Communication where systems send and receive data in real-time</option>
+    </options>
+    <answer>Communication where one system publishes messages and other systems subscribe to receive them</answer>
+  </question>
+  <question>
+    <text>Question 7: What is meant by point-to-point communication?</text>
+    <options>
+      <option>Communication where systems exchange data simultaneously</option>
+      <option>Communication where one system publishes messages and other systems subscribe to receive them</option>
+      <option>Communication where one system transmits data to a specific recipient</option>
+      <option>Communication where systems send and receive data in real-time</option>
+    </options>
+    <answer>Communication where one system transmits data to a specific recipient</answer>
+  </question>
+  <question>
+    <text>Question 8: What is meant by message-oriented communication?</text>
+    <options>
+      <option>Communication where systems exchange data simultaneously</option>
+      <option>Communication where one system transmits data to a specific recipient</option>
+      <option>Communication where one system publishes messages and other systems subscribe to receive them</option>
+      <option>Communication where systems send and receive data in real-time</option>
+    </options>
+    <answer>Communication where one system publishes messages and other systems subscribe to receive them</answer>
+  </question>
+  <question>
+    <text>Question 9: What is meant by event-driven communication?</text>
+    <options>
+      <option>Communication where one system continuously transmits data to another system</option>
+      <option>Communication where systems send and receive data in real-time</option>
+      <option>Communication where systems exchange data simultaneously</option>
+      <option>Communication where systems communicate based on triggered events or signals</option>
+    </options>
+    <answer>Communication where systems communicate based on triggered events or signals</answer>
+  </question>
+  <question>
+    <text>Question 10: What is meant by streaming communication?</text>
+    <options>
+      <option>Communication where one system continuously transmits data to another system</option>
+      <option>Communication where systems send and receive data in real-time</option>
+      <option>Communication where systems exchange data simultaneously</option>
+      <option>Communication where systems communicate based on triggered events or signals</option>
+    </options>
+    <answer>Communication where one system continuously transmits data to another system</answer>
+  </question>
+</quiz>

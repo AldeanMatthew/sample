@@ -1,0 +1,102 @@
+<quiz>
+  <question>
+    <text>Question 1: What does GUI stand for?</text>
+    <options>
+      <option>Graphical User Interface</option>
+      <option>General User Interface</option>
+      <option>Graphical User Interaction</option>
+      <option>General User Interaction</option>
+    </options>
+    <answer>Graphical User Interface</answer>
+  </question>
+  <question>
+    <text>Question 2: Which of the following is a characteristic of GUI?</text>
+    <options>
+      <option>Visual elements like buttons and menus</option>
+      <option>Command-based interactions</option>
+      <option>Text-based interface</option>
+      <option>Scripting language</option>
+    </options>
+    <answer>Visual elements like buttons and menus</answer>
+  </question>
+  <question>
+    <text>Question 3: Which programming language is commonly used for GUI development?</text>
+    <options>
+      <option>Java</option>
+      <option>Python</option>
+      <option>C++</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <text>Question 4: What is the main advantage of GUI over CLI?</text>
+    <options>
+      <option>Improved user experience and ease of use</option>
+      <option>Higher execution speed</option>
+      <option>Greater flexibility in scripting</option>
+      <option>Better compatibility with legacy systems</option>
+    </options>
+    <answer>Improved user experience and ease of use</answer>
+  </question>
+  <question>
+    <text>Question 5: What does CLI stand for?</text>
+    <options>
+      <option>Command Line Interface</option>
+      <option>Control Line Interface</option>
+      <option>Command Language Interface</option>
+      <option>Control Language Interface</option>
+    </options>
+    <answer>Command Line Interface</answer>
+  </question>
+  <question>
+    <text>Question 6: Which of the following is a characteristic of CLI?</text>
+    <options>
+      <option>Text-based interface</option>
+      <option>Visual elements like buttons and menus</option>
+      <option>Graphical representations</option>
+      <option>Scripting language</option>
+    </options>
+    <answer>Text-based interface</answer>
+  </question>
+  <question>
+    <text>Question 7: Which programming language is commonly used for CLI development?</text>
+    <options>
+      <option>C</option>
+      <option>Python</option>
+      <option>JavaScript</option>
+      <option>All of the above</option>
+    </options>
+    <answer>All of the above</answer>
+  </question>
+  <question>
+    <text>Question 8: What is the main advantage of CLI over GUI?</text>
+    <options>
+      <option>Greater flexibility and control</option>
+      <option>Improved user experience and ease of use</option>
+      <option>Higher execution speed</option>
+      <option>Better compatibility with modern systems</option>
+    </options>
+    <answer>Greater flexibility and control</answer>
+  </question>
+  <question>
+    <text>Question 9: Which type of interface is better for automated tasks and scripting?</text>
+    <options>
+      <option>CLI</option>
+      <option>GUI</option>
+      <option>Both are equally suitable</option>
+      <option>None of the above</option>
+    </options>
+    <answer>CLI</answer>
+  </question>
+  <question>
+    <text>Question 10: Which type of interface is more beginner-friendly for non-technical users?</text>
+    <options>
+      <option>GUI</option>
+      <option>CLI</option>
+      <option>Both are equally suitable</option>
+      <option>None of the above</option>
+    </options>
+    <answer>GUI</answer>
+  </question>
+</quiz>
